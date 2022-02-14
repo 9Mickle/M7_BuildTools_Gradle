@@ -1,0 +1,6 @@
+rootProject.name = 'M7_BuildTools_Gradle'
+include(':admin')
+include(':web')
+include(':services')
+include(':utils')
+
